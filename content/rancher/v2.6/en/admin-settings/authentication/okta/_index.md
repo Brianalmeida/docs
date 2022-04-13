@@ -9,7 +9,7 @@ If your organization uses Okta Identity Provider (IdP) for user authentication, 
 
 ## Prerequisites
 
-In Okta, create a SAML Application with the settings below. See the [Okta documentation](https://developer.okta.com/standards/SAML/setting_up_a_saml_application_in_okta) for help.
+In Okta, create a SAML Application with the settings below. See the [Okta documentation](https://developer.okta.com/standards/SAML/setting_up_a_saml_application_in_okta) or follow along with our step-by-step guide on [YouTube](https://www.youtube.com/watch?v=Kqn3YHyIBdk) for help.
 
 Setting | Value    
 ------------|------------
